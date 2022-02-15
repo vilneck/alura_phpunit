@@ -4,4 +4,4 @@ composer dump
 
 Rodar testes:
 
-vendor\bin\phpunit --colors tests
+vendor\bin\phpunit 
